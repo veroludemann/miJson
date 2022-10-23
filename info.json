@@ -1,0 +1,44 @@
+{
+    "novedades": [
+        {
+            "id": "1",
+
+            "descripcion":"Lear Now tiene el agrado de anunciar el lanzamiento de dos nuevos cursos, destinados a niños y jóvenes con interés en la Ciencia, Tecnología, Ingeniería y Matemáticas (STEM)",
+
+            "foto":"https://iicana.org/wp-content/uploads/2022/04/taller-stem-flyer1-300x300.jpg",
+
+            "nombre":"Nuevos Cursos STEM para niños y jóvenes",
+
+            "cuando":"6 abril, 2022"
+
+        },
+
+        {
+            "id": "2",
+
+            "descripcion":"Espacio Cultural IICANA te invita a disfrutar del Ciclo de Cine Americano, donde proyectaremos tres fantásticas películas que marcaron una época en Hollywood.",
+
+            "foto":"https://iicana.org/wp-content/uploads/2022/06/flyer-web-400x400.jpg",
+
+            "nombre":"Learn Now te invita al “Ciclo de Cine Americano”",
+
+            "cuando":"15 junio, 2022"
+
+        },
+
+        {
+            "id": "3",
+
+            "descripcion":"Esta clase esta dirigida a toda persona interesada en aprender, hablaremos de la importancion del idioma, como el mismo nos abre las puertas a un mundo lleno de posibilidades.",
+
+            "foto":"https://cdn.pixabay.com/photo/2017/09/07/10/07/english-2724442_960_720.jpg",
+
+            "nombre":"Master class especial TOMA EL CONTROL DE TU INGLES ",
+
+            "cuando":"25 abril, 2022"
+
+        }
+
+    ]
+
+}
